@@ -39,5 +39,13 @@
             "b": 8
         },
         "area": 24
+    },
+    {
+        "shape": "rectangle",
+        "dimension": {
+            "a": 4,
+            "b": 3
+        },
+        "area": 12
     }
 ]
