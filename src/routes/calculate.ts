@@ -36,7 +36,7 @@ router.post("/", function (req: Request, res: Response, next: NextFunction) {
             const data = { ...body, area };
             database.push(data);
             writeData(database);
-            return res.status(200).json(data);
+            return res.status(201).json(data);
           }
         }
       }
@@ -52,7 +52,7 @@ router.post("/", function (req: Request, res: Response, next: NextFunction) {
           const data = { ...body, area };
           database.push(data);
           writeData(database);
-          return res.status(200).json(data);
+          return res.status(201).json(data);
         }
       }
       break;
@@ -67,7 +67,7 @@ router.post("/", function (req: Request, res: Response, next: NextFunction) {
           const data = { ...body, area };
           database.push(data);
           writeData(database);
-          return res.status(200).json(data);
+          return res.status(201).json(data);
         }
       }
       break;
@@ -83,7 +83,7 @@ router.post("/", function (req: Request, res: Response, next: NextFunction) {
           const data = { ...body, area };
           database.push(data);
           writeData(database);
-          return res.status(200).json(data);
+          return res.status(201).json(data);
         }
       }
       break;

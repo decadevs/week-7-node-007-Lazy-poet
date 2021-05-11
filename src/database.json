@@ -1,0 +1,98 @@
+[
+    {
+        "shape": "circle",
+        "dimension": 10,
+        "area": 314.159
+    },
+    {
+        "shape": "circle",
+        "dimension": 10,
+        "area": 314.159
+    },
+    {
+        "shape": "circle",
+        "dimension": 10,
+        "area": 314.159
+    },
+    {
+        "shape": "circle",
+        "dimension": 10,
+        "area": 314.159
+    },
+    {
+        "shape": "square",
+        "dimension": 10,
+        "area": 100
+    },
+    {
+        "shape": "rectangle",
+        "dimension": {
+            "a": 4,
+            "b": 3
+        },
+        "area": 12
+    },
+    {
+        "shape": "triangle",
+        "dimension": {
+            "a": 4,
+            "b": 3,
+            "c": 4
+        },
+        "area": 5.562
+    },
+    {
+        "shape": "circle",
+        "dimension": 10,
+        "area": 314.159
+    },
+    {
+        "shape": "square",
+        "dimension": 10,
+        "area": 100
+    },
+    {
+        "shape": "rectangle",
+        "dimension": {
+            "a": 4,
+            "b": 3
+        },
+        "area": 12
+    },
+    {
+        "shape": "triangle",
+        "dimension": {
+            "a": 4,
+            "b": 3,
+            "c": 4
+        },
+        "area": 5.562
+    },
+    {
+        "shape": "circle",
+        "dimension": 10,
+        "area": 314.159
+    },
+    {
+        "shape": "square",
+        "dimension": 10,
+        "area": 100
+    },
+    {
+        "shape": "rectangle",
+        "dimension": {
+            "a": 4,
+            "b": 3
+        },
+        "area": 12
+    },
+    {
+        "shape": "triangle",
+        "dimension": {
+            "a": 4,
+            "b": 3,
+            "c": 4
+        },
+        "area": 5.562
+    }
+]
